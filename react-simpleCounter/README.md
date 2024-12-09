@@ -11,9 +11,8 @@ Sigue estos pasos para configurar y ejecutar el proyecto:
 ### 1. Entrar en la Carpeta del Proyecto
 
 ```bash
-cd nombre-del-proyecto
+cd react-simpleCounter
 ```
-Reemplaza `nombre-del-proyecto` con el nombre de la carpeta del repositorio.
 
 ### 2. Instalar las Dependencias
 
