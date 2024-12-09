@@ -36,9 +36,8 @@ http://localhost:5173
 
 ## Tecnologías Utilizadas
 
-- **React.js:** Biblioteca de JavaScript para construir interfaces de usuario.
-- **Tailwind CSS:** Framework para estilizar con clases de utilidad.
-- **Node.js y npm:** Herramientas para la gestión de paquetes y ejecución del servidor local.
+- **React.js:** Biblioteca de JavaScript.
+- **Tailwind CSS:** Framework de CSS.
 
 ---
 
